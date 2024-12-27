@@ -26,7 +26,7 @@ class MyHomePage extends StatelessWidget
     // 👇👇👇👇👇👇👇
     // Write the Image Widget name Here
     // Write the Image Widget here Ex: Download.png
-    var d = "write the name of the widget here";
+    var d = "write the name of the Image here";
     // Write some text here
     var str = "Hello World";
 
